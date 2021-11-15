@@ -1,0 +1,14 @@
+{
+  "name": "vendor_name/fashion",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Fizuli",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+  }
+}
